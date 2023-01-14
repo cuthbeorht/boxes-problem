@@ -1,0 +1,27 @@
+Boxes of units need to be loaded in a truck. 
+
+In the programming language of your choice, write a function that will compute the maximum number of units that can be loaded in a truck, given the capacity of the truck in boxes and a list of box kind descriptions having the number of available boxes and the number of units per box for each kind. 
+
+Input:  
+
+  - boxKinds (available, unitsPerBox) = [ 
+
+    [1, 3], [2, 2], [3, 1] 
+
+  ] 
+
+  - truckSize = 4 
+
+Output: 8 
+
+Input:  
+
+  - boxKinds (available, unitsPerBox) = [ 
+
+    [5, 10], [2, 5], [4, 7], [3, 9] 
+
+  ] 
+
+  - truckSize = 10 
+
+Output: 91
